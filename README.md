@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a Student and Full Stack. I love learning new technologies and using new tools. Mainly focused on the front-end area and UX/UI design.
+I'm a Student and Full Stack Developer. I love learning new technologies and using new tools. Mainly focused on the front-end area and UX/UI design.
 
 In addition to coding, I also enjoy designing layouts and make digital arts.
 
