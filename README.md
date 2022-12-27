@@ -10,18 +10,10 @@
 <br />
 <br />
 
-I'm a Student and Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing web applications.
-<br />
+I'm a Student and Full Stack. I love learning new technologies and using new tools. Mainly focused on the front-end area and UX/UI design.
 
-<br />
+In addition to coding, I also enjoy designing layouts and make digital arts.
 
-I love learning new technologies and using new tools. Mainly focused on the front-end area and UX/UI design.
-
-
-<br />
-
-In addition to coding, I also enjoy designing and designing layouts.
-<br />
 
 <br />
 <br />
