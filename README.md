@@ -6,7 +6,7 @@
 </a>
 <br />
 <br />
-<img src="https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" alt="Vitória">
+<img src="https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width="50%" alt="Vitória">
 <br />
 <br />
 
