@@ -4,11 +4,11 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 </a>
-<br />
+<!-- <br />
 <br />
 <img src="https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width="50%" alt="Vitória">
 <br />
-<br />
+<br /> -->
 
 I'm a Student and Full Stack Developer. I love learning new technologies and using new tools. Mainly focused on the front-end area.
 
