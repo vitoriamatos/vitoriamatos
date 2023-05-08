@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/maria-vit%C3%B3ria-matos-9bb626218/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
+
+<a href="https://codepen.io/mereia" target="_blank">
+<img src=https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA alt=linkedin style="margin-bottom: 5px; width:10%" />
+
+
 </a>
 <!-- <br />
 <br />
