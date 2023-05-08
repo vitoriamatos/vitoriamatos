@@ -20,12 +20,11 @@ I'm a Student and Full Stack Developer. I love learning new technologies and usi
 In addition to coding, I also enjoy designing layouts and make digital arts.
 
 
-<br />
-<br />
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriamatos&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Vitória Matos Github Stats">
-<br />
-<br />
-
+<div align="center">
+  <a href="https://github.com/ogiansouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriamatos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamatos&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
