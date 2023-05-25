@@ -15,10 +15,16 @@
 <br />
 <br /> -->
 
-I'm a Student and Full Stack Developer. I love learning new technologies and using new tools. Mainly focused on the front-end area.
+  <div align="left">
+I'm a Student and Full Stack Developer with 3 years of experience in Full Stack. I love learning new technologies and using new tools. Mainly focused on the front-end area. In addition to coding, I also enjoy designing layouts and make digital arts. 
+ 
+ I like to learn new technologies and use new tools, mainly focused on Front-End and User Experience. Among my main skills and knowledge are:
+* Creativity when developing web layouts focusing on usability criteria, using JS, Angular, Vue, CSS and HTML technologies
+* Refactoring codes based on good programming practices and fixing bugs and integration problems on servers or databases
+* Development in open source projects
+* Adaptation to sectors with different problems
 
-In addition to coding, I also enjoy designing layouts and make digital arts.
-
+  </div>
 
 <div align="center">
   <a href="https://github.com/ogiansouza">
