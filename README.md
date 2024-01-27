@@ -1,22 +1,11 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile!</h2>
 <a href="https://www.linkedin.com/in/mariavitoriamatos/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-
-<a href="https://codepen.io/mereia" target="_blank">
-<img src=https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA alt=linkedin style="margin-bottom: 5px; width:10%" />
-
-
 </a>
-<!-- <br />
-<br />
-<img src="https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width="50%" alt="Vitória">
-<br />
-<br /> -->
 
-  <div align="left">
-I'm a Student and Full Stack Developer with 3 years of experience in Full Stack. I love learning new technologies and using new tools. Mainly focused on the front-end area. In addition to coding, I also enjoy designing layouts and make digital arts. 
+<div align="left">
+I'm a Student and Full Stack Developer with 3 years of experience. I love learning new technologies and using new tools. Mainly focused on the front-end area. In addition to coding, I also enjoy designing layouts and make digital arts. 
  
  I like to learn new technologies and use new tools, mainly focused on Front-End and User Experience. Among my main skills and knowledge are:
 * Creativity when developing web layouts focusing on usability criteria, using JS, Angular, Vue, CSS and HTML technologies
