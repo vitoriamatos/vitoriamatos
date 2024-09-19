@@ -5,7 +5,7 @@
 </a>
 
 <div align="left">
-Sou estudante e desenvolvedora, apaixonada por aprender novas tecnologias e explorar ferramentas inovadoras. Minha principal área de atuação é o desenvolvimento front-end, onde gosto de criar experiências visuais e interativas. Além de programar, sou entusiasta de desenho digital e tenho um grande interesse por literatura russa.
+Sou estudante e desenvolvedora, apaixonada por aprender novas tecnologias e explorar ferramentas. Minha principal área de atuação é o desenvolvimento front-end, onde gosto de criar experiências visuais e interativas. Além de programar, sou entusiasta de desenho digital e tenho um grande interesse por literatura russa.
 
   </div>
 
